@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marvel Character List</string>
+    <string name="comics">Comics</string>
+    <string name="events">Events</string>
+    <string name="series">Series</string>
+    <string name="stories">Stories</string>
+    <string name="no_comics_available_for_this_character">No comics available for this character.</string>
+    <string name="no_events_available_for_this_character">No events available for this character.</string>
+    <string name="no_series_available_for_this_character">No series available for this character.</string>
+    <string name="no_stories_available_for_this_character">No stories available for this character.</string>
+    <string name="description">Description</string>
+    <string name="no_description_available">No description available.</string>
+</resources>
